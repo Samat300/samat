@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.click {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+
+}
+#plus {
+    background: blue;
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    border: none;
+    font-size: 30px;
+    color: white;
+}
+#minus {
+    background: red;
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    border: none;
+    font-size: 30px;
+    color: white;
+
+}
+#tech {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    background: orange;
+    border: black;
+    border-radius: 30px;
+    width: 50px;
+    height: 50px;
+    margin: 50px;
+}
