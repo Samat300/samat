@@ -1,3 +1,4 @@
+//1
 function j (count){
     let result = "";
     for (let i = 1; i <= count; i++){
@@ -8,5 +9,4 @@ function j (count){
     }
     return result
 }
-console.log(j(7))
-
+console.log(j(800))
