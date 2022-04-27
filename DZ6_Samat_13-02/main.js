@@ -56,7 +56,7 @@ function render() {
 addButton.onclick = function () {
     const obj = {
         id: list.length+1,
-        text: "Hello" + input.value,
+        text: " Hello " + input.value,
     }
     list.push(obj)
     console.log(list);
