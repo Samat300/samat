@@ -19,55 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b588edc-38af-4f9d-a992-0bf4f7da79c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ2_Samat_13-02/fizz.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ2_Samat_13-02/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ2_Samat_13-02/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ4_Samat_13-02/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ4_Samat_13-02/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ4_Samat_13-02/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ6_Samat_13-02/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ6_Samat_13-02/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ6_Samat_13-02/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/img/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/img/fg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/img/pipeBottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/img/pipeUp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/img/wing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz2/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz2/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/.idea/dz1_Bekmyrza_11_02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/check.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/greetings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/svetofor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/style.css" beforeDir="false" />
-    </list>
+    <list default="true" id="7b588edc-38af-4f9d-a992-0bf4f7da79c3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +92,7 @@
       <workItem from="1651297728396" duration="2100000" />
       <workItem from="1651330311820" duration="688000" />
       <workItem from="1651932516220" duration="2970000" />
-      <workItem from="1652246491631" duration="1749000" />
+      <workItem from="1652246491631" duration="2041000" />
     </task>
     <servers />
   </component>
