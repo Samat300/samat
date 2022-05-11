@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.vip{
+    width: 200px;
+    height: 200px;
+    background: #EE3D1B;
+    position: absolute;
+    left: 50px;
+    transition: left 3s;
+}

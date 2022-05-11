@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b588edc-38af-4f9d-a992-0bf4f7da79c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ2_Samat_13-02/fizz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ2_Samat_13-02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ2_Samat_13-02/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ4_Samat_13-02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ4_Samat_13-02/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ4_Samat_13-02/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ6_Samat_13-02/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ6_Samat_13-02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ6_Samat_13-02/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/img/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/img/fg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/img/pipeBottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/img/pipeUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/img/wing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ7_Samat_13-02/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz2/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/.idea/dz1_Bekmyrza_11_02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/check.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/greetings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz_Samat_13_02/svetofor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27Yn6SJQJmOGQ1Ic5WXpAJkUfNH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samat\Desktop\dz\DZ7_Samat_13-02\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b588edc-38af-4f9d-a992-0bf4f7da79c3" name="Default Changelist" comment="" />
+      <created>1649505711239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649505711239</updated>
+      <workItem from="1649505712405" duration="1707000" />
+      <workItem from="1649518535656" duration="324000" />
+      <workItem from="1649687987126" duration="13000" />
+      <workItem from="1649737584908" duration="2742000" />
+      <workItem from="1649777638481" duration="21000" />
+      <workItem from="1649777712629" duration="3000" />
+      <workItem from="1649777805443" duration="13000" />
+      <workItem from="1649777933861" duration="671000" />
+      <workItem from="1649778627427" duration="1919000" />
+      <workItem from="1649859069076" duration="243000" />
+      <workItem from="1649859323171" duration="6302000" />
+      <workItem from="1650112671245" duration="624000" />
+      <workItem from="1650113463559" duration="1164000" />
+      <workItem from="1650118183756" duration="9085000" />
+      <workItem from="1650359012811" duration="3706000" />
+      <workItem from="1650379413414" duration="7092000" />
+      <workItem from="1650723362296" duration="3636000" />
+      <workItem from="1650738483152" duration="10000" />
+      <workItem from="1650800983580" duration="1618000" />
+      <workItem from="1650812108983" duration="3623000" />
+      <workItem from="1650989681322" duration="6890000" />
+      <workItem from="1651069099749" duration="4681000" />
+      <workItem from="1651292508368" duration="5170000" />
+      <workItem from="1651297728396" duration="2100000" />
+      <workItem from="1651330311820" duration="688000" />
+      <workItem from="1651932516220" duration="2970000" />
+      <workItem from="1652246491631" duration="1749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650359386625">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1650359386625" />
+  </component>
+</project>
